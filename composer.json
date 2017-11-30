@@ -38,6 +38,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/acquia/lightning-commerce"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/acquia/acm-drupal-modules"
         }
     ],
     "scripts": {
