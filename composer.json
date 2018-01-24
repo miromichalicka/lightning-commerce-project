@@ -23,7 +23,7 @@
     "require": {
         "drupal-composer/drupal-scaffold": "^2.0.0",
         "cweagans/composer-patches": "^1.6.0",
-        "acquia/lightning_commerce": "^1.0.1",
+        "acquia/lightning_commerce": "^1.1.0",
         "drupal/core": "~8.4.0"
     },
     "repositories": [
