@@ -3,6 +3,13 @@
     "description": "Project template for Drupal 8 sites built with the Lightning for Commerce distribution.",
     "type": "project",
     "license": "GPL-2.0+",
+    "authors":[
+        {
+            "name": "Acquia Engineering",
+            "homepage": "https://www.acquia.com",
+            "role": "Maintainer"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require-dev": {
