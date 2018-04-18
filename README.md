@@ -1,4 +1,5 @@
-# Acquia Commerce Lightning distribution
+# <img src="lightning_commerce.png" width="32"> Acquia Commerce Lightning distribution
+
 A Composer-based installer for the [Lightning for Commerce](https://github.com/acquia/lightning-commerce) Drupal distribution.
 
 ## Getting Started
