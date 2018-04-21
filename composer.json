@@ -30,7 +30,7 @@
     "require": {
         "drupal-composer/drupal-scaffold": "^2.0.0",
         "cweagans/composer-patches": "^1.6.0",
-        "acquia/lightning_commerce": "^1.3.0",
+        "acquia/lightning_commerce": "^1.4.0",
         "drupal/core": "~8"
     },
     "repositories": [
@@ -41,14 +41,6 @@
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/acquia/lightning-commerce"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/acquia/acquia-commercemanager"
         }
     ],
     "scripts": {
