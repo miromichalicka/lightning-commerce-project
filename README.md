@@ -3,7 +3,7 @@
 A Composer-based installer for the [Lightning for Commerce](https://github.com/acquia/lightning-commerce) Drupal distribution.
 
 ## Getting Started
-First you need to install [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx) and [Git](https://git-scm.com).
+First you need to install [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx) and [Git](https://git-scm.com). From version 1.6.0 we also require at least PHP7.1.
 
 > Note: The instructions below refer to the [global composer installation](https://getcomposer.org/doc/00-intro.md#globally).
 You might need to replace `composer` with `php composer.phar` (or similar) for your setup.
